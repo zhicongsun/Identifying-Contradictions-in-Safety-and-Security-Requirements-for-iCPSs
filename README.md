@@ -1,0 +1,2 @@
+# Identifying-Contradictions-in-Safety-and-Security-Requirements-for-iCPSs
+This is the implementation of some algorithms involved in the paper "Contradictions Identification of Safety and Security Requirements for Industrial Cyber-Physical Systems".  Pertinent elucidations will be furnished in forthcoming updates. Thanks Wen Sifei, Professor Ding, Professor Yang, and Dr. Pei for their contributions to this work.
