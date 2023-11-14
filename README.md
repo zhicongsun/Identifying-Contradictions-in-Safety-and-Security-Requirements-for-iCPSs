@@ -17,7 +17,8 @@ This work is a collaboration between us and RAMS lab and TTE lab in Huawei’s M
 ## How To Cite This Work
 If you use this code for your research, please cite:
 
-Z. Sun, Y. Ding, K. Pei and S. -H. Yang, "Contradictions Identification of Safety and Security Requirements for Industrial Cyber-Physical Systems," in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2023.3332128.
+Z. Sun, Y. Ding, K. Pei and S. -H. Yang, "Contradictions Identification of Safety and Security Requirements for Industrial Cyber-Physical Systems," in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2023.3332128. [Paper](https://doi.org/10.1109/JIOT.2023.3332128)
+
 
 ```
 @ARTICLE{10314997,
