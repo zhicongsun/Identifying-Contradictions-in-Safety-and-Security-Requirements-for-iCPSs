@@ -3,11 +3,11 @@ Author: Zhicong Sun, Sifei Wen, Yulong Ding, Ke Pei, and Shuang-Hua Yang
 
 ## Changelog
 
-**10/2023: Codes are pushed by Sifei Wen and forked by Zhicong Sun**
-The methodology is proposed by Zhicong Sun. The implement of algorithms is conducted by Sifei Wen.
-
 **11/2023: Introduction and Citation Format are added**
-Brief introduction of this repository is added.
+
+**10/2023: Codes are published**
+
+The methodology is proposed by Zhicong Sun. The implement of algorithms is conducted by Sifei Wen.
 
 
 ## Introduction
