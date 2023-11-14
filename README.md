@@ -22,7 +22,7 @@ Z. Sun, Y. Ding, K. Pei and S. -H. Yang, "Contradictions Identification of Safet
 
 
 ```
-@ARTICLE{10314997,
+@ARTICLE{zhicongsun202301,
   author={Sun, Zhicong and Ding, Yulong and Pei, Ke and Yang, Shuang-Hua},
   journal={IEEE Internet of Things Journal}, 
   title={Contradictions Identification of Safety and Security Requirements for Industrial Cyber-Physical Systems}, 
