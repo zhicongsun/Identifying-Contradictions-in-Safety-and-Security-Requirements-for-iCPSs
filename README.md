@@ -1,4 +1,5 @@
 # Identifying Contradictions in Safety and Security Requirements for Industrial Cyber-Physical Systems
+Author: Zhicong Sun, Sifei Wen, Yulong Ding, Ke Pei, and Shuang-Hua Yang
 
 ## Changelog
 
