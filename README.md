@@ -1,13 +1,22 @@
-# Identifying Contradictions in Safety and Security Requirements for iCPSs
+# Identifying Contradictions in Safety and Security Requirements for Industrial Cyber-Physical Systems
 
-This is the implementation of some algorithms involved in our paper "Contradictions Identification of Safety and Security Requirements for Industrial Cyber-Physical Systems".  Pertinent elucidations will be furnished in forthcoming updates. Thanks Wen Sifei, Professor Ding, Professor Yang, and Dr. Pei for their contributions to this work.
+## Changelog
 
-Abstract: Industrial cyber-physical systems (iCPSs) are the backbone of the fourth industrial revolution, facing more safety and security (S&S) challenges compared to traditional industrial systems. One of the most critical challenges is the collaborative analysis of S&S. Considerable efforts have been made towards integrating S&S and resolving their contradictions. However, a significant research gap remains regarding the accurate definition of contradictions in S&S requirements, along with an identification methodology. This study presents a systematical methodology to address this challenge. We propose two sufficient conditions that result in contradictions and provide algorithms to help their identification. Additionally, three measures have been proposed to reduce the difficulty of contradictions identification, including a conceptual model for iCPSs with S&S objectives to constrain objects and interactions within the model, a method for unifying the elicitation of S&S requirements, and a requirements template for coordinating the representation of S&S requirements. To provide insight into the operations of the methodology, we demonstrate its application in a smart factory. The results show that this approach can effectively identify the hidden contradictions in S&S requirements.
+**10/2023: Codes are pushed by Sifei Wen and forked by Zhicong Sun**
+The methodology is proposed by Zhicong Sun. The implement of algorithms is conducted by Sifei Wen.
 
+**11/2023: Introduction and Citation Format are added**
+Brief introduction of this repository is added.
+
+
+## Introduction
+This is the repository of some algorithms involved in our article "Contradictions Identification of Safety and Security Requirements for Industrial Cyber-Physical Systems", which has been accepted by IEEE Internet of Things Journal (IoTJ, SCJ JCR Q1, IF = 11).
+This work is a collaboration between us and RAMS lab and TTE lab in Huawei’s Munich Research Center. The goal is to promote the automation of contradictions identification in iCPSs. We hope you can benefit from it. However, it is currently in alpha state, so don't expect a polished and bugfree application. Pertinent elucidations will be furnished in forthcoming updates. 
+
+## How To Cite This Work
 If you use this code for your research, please cite:
 
 Z. Sun, Y. Ding, K. Pei and S. -H. Yang, "Contradictions Identification of Safety and Security Requirements for Industrial Cyber-Physical Systems," in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2023.3332128.
-
 
 ```
 @ARTICLE{10314997,
@@ -21,4 +30,5 @@ Z. Sun, Y. Ding, K. Pei and S. -H. Yang, "Contradictions Identification of Safet
   doi={10.1109/JIOT.2023.3332128}}
 ```
 
-
+## Acknowledgments
+Thanks Wen Sifei, Professor Ding, Professor Yang, and Dr. Pei for their contributions to this work.
