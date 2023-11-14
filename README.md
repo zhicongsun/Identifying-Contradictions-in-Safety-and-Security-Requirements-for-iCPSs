@@ -11,7 +11,7 @@ Brief introduction of this repository is added.
 
 
 ## Introduction
-This is the repository of some algorithms involved in our article "Contradictions Identification of Safety and Security Requirements for Industrial Cyber-Physical Systems", which has been accepted by IEEE Internet of Things Journal (IoTJ, SCJ JCR Q1, IF = 11).
+This is the repository of some algorithms involved in our article "Contradictions Identification of Safety and Security Requirements for Industrial Cyber-Physical Systems", which has been accepted by IEEE Internet of Things Journal (IoTJ, SCI JCR Q1, IF = 11).
 
 This work is a collaboration between us and RAMS lab and TTE lab in Huawei’s Munich Research Center. The goal is to promote the automation of contradictions identification in iCPSs. We hope you can benefit from it. However, it is currently in alpha state, so don't expect a polished and bugfree application. Pertinent elucidations will be furnished in forthcoming updates. 
 
