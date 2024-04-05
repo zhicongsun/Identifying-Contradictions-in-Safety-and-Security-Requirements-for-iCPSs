@@ -1,5 +1,3 @@
-# Identifying Contradictions in Safety and Security Requirements for Industrial Cyber-Physical Systems
-Author: Zhicong Sun, Sifei Wen, Yulong Ding, Ke Pei, and Shuang-Hua Yang
 <p align="center">
   <img alt="Paper cover" src="https://github.com/zhicongsun/Identifying-Contradictions-in-Safety-and-Security-Requirements-for-iCPSs/blob/main/contradictions_identification.jpg?raw=true">
 </p>
@@ -37,4 +35,4 @@ Z. Sun, Y. Ding, K. Pei and S. -H. Yang, "Contradictions Identification of Safet
 ```
 
 ## Acknowledgments
-Thanks Wen Sifei, Professor Ding, Professor Yang, and Dr. Pei for their contributions to this work.
+Thanks Wen Sifei, Guang Chen, Professor Ding, Professor Yang, and Dr. Pei for their contributions to this work.
