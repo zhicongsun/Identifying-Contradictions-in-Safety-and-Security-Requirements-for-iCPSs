@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Paper cover" src="https://github.com/zhicongsun/Identifying-Contradictions-in-Safety-and-Security-Requirements-for-iCPSs/blob/main/contradictions_identification.jpg?raw=true">
+  <img alt="Paper cover" src="https://github.com/zhicongsun/Identifying-Contradictions-in-Safety-and-Security-Requirements-for-iCPSs/blob/main/poster.jpg?raw=true">
 </p>
 
 ## Changelog
