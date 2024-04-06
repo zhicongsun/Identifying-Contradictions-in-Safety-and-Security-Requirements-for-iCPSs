@@ -4,7 +4,7 @@
 
 ## Changelog
 
-**4/2024: Poster is published**
+**04/2024: Poster is published**
 
 **11/2023: Introduction and Citation Format are added**
 
